@@ -4,12 +4,7 @@
     "baseUrl": "./",
     "outDir": "../out-tsc/e2e-app",
     "paths": {
-      "@ng-bootstrap/ng-bootstrap": [
-        "../src/index"
-      ],
-      "@test": [
-        "./playwright/index"
-      ]
+      "@ng-bootstrap/ng-bootstrap": ["../src/index"]
     }
   },
   "files": [
